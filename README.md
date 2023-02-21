@@ -17,7 +17,6 @@ This file was made as a personal introduction to memory management using C. The 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The program prints "Not a valid data type within C."
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The program exits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. If the program can determine the data type
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The program determines the amount of space used by multiplying the byte size of the data type by `noOfTypes`,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and adding that value to `whole`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The program determines the amount of space used by multiplying the byte size of the data type by `noOfTypes`,and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adding that value to `whole`
 
 4. The program displays the total amount of space, represented in bytes, used by all the entered data types
