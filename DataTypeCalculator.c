@@ -1,14 +1,12 @@
 #include <stdio.h>
 #include <string.h>
 int typeSize(int x){
-    char c;
-    int i;
+    char c, type[10];
+    int i, whole, noOfTypes;
     short s;
     long l;
     float f;
     double d;
-    int noOfTypes;
-    char type[10];
     printf("Enter the number of each data type followed by the name of the data type.\n");    
     scanf("%d", &noOfTypes);
     scanf("%s", type);
