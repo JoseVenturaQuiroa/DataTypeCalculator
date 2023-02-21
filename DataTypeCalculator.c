@@ -56,7 +56,7 @@ int main(){
         newVal = typeSize(noOfInputs);
         sum = sum + newVal;
         if (newVal == 0){
-            return 0;
+            sum = sum + 0;
         }
     }
     if (sum != 0){
