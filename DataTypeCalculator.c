@@ -44,6 +44,7 @@ int typeSize(int x){
     }
     else{
         printf("Not a valid data type within C.");
+        return 0;
     }
 }
 
